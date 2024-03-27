@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d677c46-168e-4523-b2b8-78f170d20297" name="Changes" comment="" />
+    <list default="true" id="2d677c46-168e-4523-b2b8-78f170d20297" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/Fence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/Fence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/Guard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/Guard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/Obstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/Obstacle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/ObstacleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/ObstacleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obstacles/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obstacles/Sensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pathFinding/BFSPathFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pathFinding/BFSPathFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pathFinding/GridPathFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pathFinding/GridPathFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pathFinding/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pathFinding/Path.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,20 +41,42 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2dw0KH3y3k9zHsCEGTANBE8qhHX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Unnamed.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Matt/IdeaProjects/CAB302 Homework/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="common.Main" />
+      <module name="CAB302 Homework" />
+      <option name="PROGRAM_PARAMETERS" value="-start (0,7) -target (7,2) -g (6,2) -f (2,0,2,5) (0,3,4,3) (6,3,7,3) -s (1,4,2.5) -c (4,2,w) (4,7,e) " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,16 +87,5 @@
       <updated>1710903768777</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
